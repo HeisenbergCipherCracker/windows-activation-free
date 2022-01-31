@@ -1,0 +1,2 @@
+hello!welcome to kms atuo ls! please open the cmd file(dis win firewall) as admin and press number 3 on the keyboard to disable windows firewall
+open setup2.py (first extract the zip) and act win
